@@ -14,7 +14,7 @@
     "resolveJsonModule": true,
     "isolatedModules": true
   },
-  "include": ["index.ts"],
+  "include": ["src/index.ts"],
   "exclude": ["node_modules", "dist"]
 }
 
